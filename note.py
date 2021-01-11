@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 #creating a root window
 root=Tk()
-root.title('Notepad')
+root.title('Praveen Notepad')
 root.geometry('900x500+60+60')
 
 
